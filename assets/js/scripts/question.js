@@ -179,14 +179,14 @@ var questions = [
     ),
 
     new Question(
-        "Which war from history inspired Game Of Thrones', 'The War of Five Kings?",
+        "¿Qué es lo que crees que me gusta más de ti?",
         [
-            "The War of the Roses",
-            "Vietnam",
-            "World War I"
+            "Eres un laberinto que nunca deja de asombrarme",
+            "Tus libros",
+            "Tu Venus"
         ],
-        "The War of the Roses",
-        "The War of the Roses was a series of battles that ultimately led to the installation of Henry Tudor as king. In the same way King Robert Baratheon's death kicked off the, 'War of Five Kings', the death of King Edward III in 1377 started The War Of the Roses. The battle was fought between the Lancasters and The Yorks, who can be compared to House Lannister and House Stark.",
+        "Eres un laberinto que nunca deja de asombrarme",
+        "Tu corazón late al ritmo de los sueños más grandes y bellos. La seguridad de que contigo puedo construir un espacio lleno de amor y armonía. Cada día encuentro algo nuevo de ti que me enamora. Eres el sueño que llamo realidad.",
         "https://lh3.googleusercontent.com/pw/AMWts8D41REWhjZXVap9SdH_G5EW_41tneJcuksk9Vcd0G6nYP_1qkbOUkw0R200py_upKVfHvZTK6Hwzjy96DFcYjCrEtzWXW5RskTbvLtbE7mA6ezq34zlic4KxTxtJsx-SH9Os8_naqItunRBRgeIMBM7=w708-h943-no?authuser=0"
     )];
 
